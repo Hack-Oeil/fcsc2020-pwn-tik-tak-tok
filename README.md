@@ -5,11 +5,10 @@ On vous demande de lire le fichier flag situé sur la machine distante.
 Note : Cette épreuve avait été proposée lors de la finale du FCSC 2020.
 
 Fichiers :
-[tiktaktok.c](tiktaktok.c)
 
-[tiktaktok](tiktaktok)
-
-[libc-2.28.so](libc-2.28.so)
+- [tiktaktok.c](tiktaktok.c)
+- [tiktaktok](tiktaktok)
+- [libc-2.28.so](libc-2.28.so)
 
 
 
