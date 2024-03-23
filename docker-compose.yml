@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  ssh.cyrhades.com:
+    build: ssh
+  webssh.cyrhades.com:
+    build: webssh
+    ports:
+      - "80:8888"
+  tik-tak-tok.cyrhades.com:
+    image: anssi/fcsc2020-pwn-tik-tak-tok:latest
+    ports:
+      - "4000:4000"
