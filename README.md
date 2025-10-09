@@ -25,7 +25,7 @@ Origine : [Tik Tak Tok](https://hackropole.fr/fr/challenges/pwn/fcsc2020-pwn-tik
 
 
 #### tentez 
-> nc tik-tak-tok.cyrhades.com:4000
+> nc tik-tak-tok.cyrhades.fr:4000
 
 
 -----------
