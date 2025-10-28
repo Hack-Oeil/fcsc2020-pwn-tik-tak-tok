@@ -14,7 +14,7 @@ Fichiers :
 
 ---
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Tik Tak Tok](https://hackropole.fr/fr/challenges/pwn/fcsc2020-pwn-tik-tak-tok/)
 
